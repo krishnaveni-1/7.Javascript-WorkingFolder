@@ -15,4 +15,4 @@ const people = [
 const fullNames = people.map(person => {
     return { ...person, location: "Delhi" };
 });
-console.log('fullNames....', fullNames); 
+console.log('fullNames....**', fullNames); 
