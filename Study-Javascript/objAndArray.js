@@ -5,6 +5,8 @@ Important
         3. ... on the left hand side is rest
         4. ... on the right is the spread operator.
 */
+
+
 let obj = {
     collegeName: "IITE",
     location: "Delhi",
