@@ -1,0 +1,24 @@
+//var
+nameVar = 'Swati';
+var nameVar = "Swati";
+var nameVar = "Swati";
+console.log('name-1', nameVar);
+{
+    var nameVar = "Veni";
+    console.log('name-2', nameVar);
+}
+console.log('name-3', nameVar);
+
+
+//Let
+console.log('----------------');
+nameV = "Swati";
+let nameV = "Swati";
+//let nameV = "Swati";
+console.log('name-1', nameV);
+{
+    let nameV = "Veni";
+    console.log('name-2', nameV);
+}
+console.log('name-3', nameV);
+
