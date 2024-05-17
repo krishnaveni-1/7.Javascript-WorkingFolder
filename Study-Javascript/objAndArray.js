@@ -66,6 +66,7 @@ let { name, age: ageDes, degree } = obj.prinicipal;
 console.log('ageDes', ageDes);
 console.log('Age.....', obj.prinicipal.age);
 
+//nameString is the alias name.
 let { name: nameString, ...rests } = obj.prinicipal;
 console.log('nameString..', nameString);
 console.log('rests..', rests);
